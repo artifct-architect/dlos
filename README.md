@@ -3,6 +3,9 @@
 Experimental reference implementation  
 Specification draft
 
+DLOS defines a self-verifying digital artifact container that preserves
+identity, integrity, and lineage independent of platforms or registries.
+
 DLOS objects are self-verifying digital artifacts that carry their own identity, integrity proof, and lineage reference independent of any platform or blockchain.
 
 # DLOS — Digital Lineage Object Standard
