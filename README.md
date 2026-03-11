@@ -6,6 +6,13 @@ Specification draft
 DLOS defines a self-verifying digital artifact container that preserves
 identity, integrity, and lineage independent of platforms or registries.
 
+## Design Principles
+
+1. Artifacts should be self-verifiable.
+2. Identity should not depend on platforms.
+3. Lineage should remain portable across systems.
+4. Objects should retain meaning across time.
+
 DLOS objects are self-verifying digital artifacts that carry their own identity, integrity proof, and lineage reference independent of any platform or blockchain.
 
 # DLOS — Digital Lineage Object Standard
