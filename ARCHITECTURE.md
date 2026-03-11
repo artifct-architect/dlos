@@ -137,3 +137,15 @@ integrity proof, and lineage reference.
 
 This architecture allows digital materials to remain verifiable,
 traceable, and durable across systems and over time.
+
+---
+
+## Conceptual Comparison
+
+Developers familiar with Git may recognize a structural similarity.
+
+Git stores content as a graph of objects linked through parent references.
+
+DLOS applies a related principle to digital artifacts: objects carry their
+own identity, signature, and lineage reference, forming verifiable artifact
+graphs rather than version-control histories.
