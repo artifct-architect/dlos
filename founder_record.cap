@@ -1,0 +1,19 @@
+{
+  "schema": "capsule.v0",
+  "capsule_id": "709c033974d926a220dca188b7271a9e8986456d3a914db731683a5a2ac6b459",
+  "created_at": "2026-02-15T13:45:43.188219+00:00",
+  "author": "Christopher J. Prater",
+  "parent_id": null,
+  "payload_sha256": "4cd1da2c93af9a22b90a3559486cb48697a807b5dcd5f2ac3c176a23ed521353",
+  "payload_b64": "Rm91bmRlciBSZWNvcmQg4oCTIENhcHN1bGUgJiBETEMgU3RhbmRhcmRzDQoNCkZ1bGwgTmFtZTogQ2hyaXN0b3BoZXIgSi4gUHJhdGVyDQpUaXRsZTogSW52ZW50b3IgJiBQcm90b2NvbCBBdXRob3INCkRhdGU6IDIwMjYtMDItMTUgKFVUQykNCg0KU3RhdGVtZW50IG9mIEF1dGhvcnNoaXA6DQoNCkksIENocmlzdG9waGVyIEouIFByYXRlciwgYW0gdGhlIG9yaWdpbmFsIGFyY2hpdGVjdCBhbmQgY29uY2VwdHVhbCBhdXRob3Igb2YgdGhlIENhcHN1bGUgZmlsZSBzdHJ1Y3R1cmUgYW5kIHRoZSBEaWdpdGFsIExpbmVhZ2UgQ2Fwc3VsZSAoRExDKSBTdGFuZGFyZC4NCg0KVGhlIENhcHN1bGUgaXMgYSBzZWxmLWF1dGhlbnRpY2F0aW5nIGRpZ2l0YWwgYXJ0aWZhY3QgY29udGFpbmVyIGRlc2lnbmVkIHRvIHByZXNlcnZlIGF1dGhvcnNoaXAsIGludGVncml0eSwgYW5kIGxpbmVhZ2Ugb2YgZGlnaXRhbCBjb250ZW50IGluZGVwZW5kZW50IG9mIGNlbnRyYWxpemVkIHNlcnZlcnMgb3IgZGlzdHJpYnV0ZWQgbGVkZ2VyIGNvbnNlbnN1cy4NCg0KVGhlIERMQyBTdGFuZGFyZCBkZWZpbmVzIHN0cnVjdHVyYWwgcnVsZXMgZm9yOg0KLSBJbnRyaW5zaWMgaWRlbnRpdHkgYmluZGluZw0KLSBDcnlwdG9ncmFwaGljIGludGVncml0eSB2ZXJpZmljYXRpb24NCi0gTGluZWFnZSByZWZlcmVuY2luZw0KLSBPZmZsaW5lIGF1dGhlbnRpY2l0eSB2YWxpZGF0aW9uDQoNClRoaXMgcmVjb3JkIHNlcnZlcyBhcyBhIHBsYWluLXRleHQgZGVjbGFyYXRpb24gb2YgY29uY2VwdHVhbCBhdXRob3JzaGlwIGFuZCBmb3VuZGF0aW9uYWwgZGVzaWduIGNvbnRyaWJ1dGlvbiBhcyBvZiB0aGUgZGF0ZSBhYm92ZS4NCg0KU2lnbmVkIChkaWdpdGFsbHkgdmlhIENhcHN1bGUgc2VhbGluZyBwcm9jZXNzKSwNCkNocmlzdG9waGVyIEouIFByYXRlcg0K",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEArgAUdBEsCI1VspqhY/qdWIETuKK08qFYBvcyrHaWsfM=\n-----END PUBLIC KEY-----\n",
+  "signature_b64": "F9hUFujOiLI+a3xX9NPnQyqCaOFZsbToIkrJqk9HNQ43w5lI0VC/41u/3Lj7nw+zcgdcNV0AnUxuH/iFMHN0Dg==",
+  "signature_over": {
+    "schema": "capsule.v0",
+    "capsule_id": "709c033974d926a220dca188b7271a9e8986456d3a914db731683a5a2ac6b459",
+    "payload_sha256": "4cd1da2c93af9a22b90a3559486cb48697a807b5dcd5f2ac3c176a23ed521353",
+    "created_at": "2026-02-15T13:45:43.188219+00:00",
+    "author": "Christopher J. Prater",
+    "parent_id": ""
+  }
+}
