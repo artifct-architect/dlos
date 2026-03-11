@@ -140,6 +140,18 @@ traceable, and durable across systems and over time.
 
 ---
 
+## Artifact-Oriented Architecture
+
+Traditional computing systems manage files tied to storage locations.
+
+DLOS introduces an artifact-oriented model where digital objects carry
+their own identity, integrity verification, and lineage reference.
+
+This allows artifacts to remain verifiable and traceable across systems,
+platforms, and time.
+
+---
+
 ## Conceptual Comparison
 
 Developers familiar with Git may recognize a structural similarity.
