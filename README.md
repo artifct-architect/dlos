@@ -1,2 +1,47 @@
-# dlos
-Digital Lineage Object Standard — reference specification and prototype implementation
+# DLOS — Digital Lineage Object Standard
+
+Author: Christopher J. Prater  
+Year: 2026
+
+DLOS defines a self-verifying digital object that embeds authorship, integrity, and lineage directly within the artifact itself.
+
+The goal of DLOS is to provide durable digital artifacts that can be verified independently of centralized platforms or distributed ledger consensus.
+
+---
+
+## Core Concepts
+
+A DLOS object contains:
+
+- payload
+- payload hash
+- author identity
+- timestamp
+- parent reference (lineage)
+- public key
+- signature
+
+These elements allow any artifact to verify:
+
+- authenticity
+- integrity
+- authorship
+- lineage
+
+offline and without trusted intermediaries.
+
+---
+
+## Repository Contents
+
+/spec
+    protocol specification
+
+/reference
+    reference implementation
+
+/examples
+    sample objects
+
+/docs
+    diagrams and concept papers
