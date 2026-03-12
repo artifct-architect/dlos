@@ -2,7 +2,7 @@
 
 Applications
 ↓
-Artifct ecosystem
+Object ecosystem
 ↓
 DLOS Standard
 ↓
