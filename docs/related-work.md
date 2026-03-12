@@ -105,3 +105,23 @@ each object contains the information necessary to verify:
 This approach aims to create digital artifacts that retain
 their meaning and authenticity across changing technological
 environments.
+
+---
+
+## Related Concepts
+Various systems have attempted to represent provenance and ownership
+of digital artifacts. Some approaches rely on external ledgers or
+token systems that reference digital files stored elsewhere.
+
+While these systems may record claims about artifacts, the artifact
+itself often remains separate from the mechanism that records those
+claims.
+
+Digital Lineage Objects take a different approach: the artifact
+itself carries its identity, integrity proof, and lineage
+information directly within the object container.
+
+In this model, provenance and authenticity travel with the artifact
+rather than being maintained by an external platform, ledger, or
+registry. This allows artifacts to retain meaning and verifiability
+across changing systems and technologies.
