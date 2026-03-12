@@ -1,7 +1,7 @@
-# DLOS / Artifct Protocol Roadmap
+# DLOS / Object Protocol Roadmap
 
 ## Phase 0 — Foundational Object Model (Current)
-- Capsule object container
+- Obj object container
 - Self-authenticating artifact structure
 - Payload hashing
 - Signature verification
@@ -11,7 +11,7 @@
 ## Phase 1 — Developer Tooling
 - CLI tooling improvements
 - Object inspection utilities
-- Artifact verification commands
+- Object verification commands
 - Language SDK exploration
 
 ## Phase 2 — Identity Layer (Exploratory)
@@ -30,8 +30,8 @@ domains such as:
 These are extensions, not core protocol requirements.
 
 ## Phase 4 — Ecosystem Development
-Artifct ecosystem tools including:
+Object ecosystem tools including:
 
-- Artifct Studio
-- Artifct Registry
-- Artifct Vault
+- Object Studio
+- Object Registry
+
