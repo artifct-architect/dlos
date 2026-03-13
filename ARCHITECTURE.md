@@ -117,19 +117,6 @@ considered an experimental prototype.
 
 ---
 
-# Relationship to the Artifct Ecosystem
-
-DLOS defines the object protocol layer.
-
-The Artifct ecosystem represents a potential application layer built on
-top of this protocol, providing tools for creation, custody, discovery,
-and stewardship of DLOS objects.
-
-The protocol itself remains independent of any specific ecosystem
-implementation.
-
----
-
 # Summary
 
 DLOS introduces a model where digital artifacts carry their own identity,
