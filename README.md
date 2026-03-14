@@ -14,7 +14,6 @@ identity, integrity, and lineage independent of registries, platforms, or blockc
 4. Objects should retain meaning across time.
 
 DLOS objects are self-verifying digital artifacts that carry their own identity, integrity proof, and lineage reference independent of any (external dependency) ledger, registry, platform, or blockchain.
-.
 
 # DLOS — Digital Lineage Object Standard
 
