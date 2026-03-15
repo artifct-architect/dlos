@@ -1,0 +1,12 @@
+{
+  "type": "protocol_genesis",
+  "protocol": "Digital Lineage Object Standard (DLOS)",
+  "created_at": "2026-02-15T00:00:00Z",
+  "description": "Genesis artifact establishing the origin of the Digital Lineage Object Standard and its artifact-oriented object architecture.",
+  "purpose": [
+    "Define the origin point of the DLOS protocol",
+    "Provide a stable reference for artifact lineage",
+    "Record the creation of the protocol architecture"
+  ],
+  "notes": "This capsule defines no authority over artifacts and exists only as the historical root of the protocol lineage."
+}
