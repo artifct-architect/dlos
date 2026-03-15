@@ -136,24 +136,6 @@ archaeologists explore ruins.
 
 ---
 
-## Spatial Interfaces to Knowledge
-
-Spatial computing technologies such as virtual and augmented
-reality could provide new ways to explore preserved artifacts.
-
-Rather than reading about digital history, people might walk
-through preserved environments that represent:
-
-- historical internet spaces
-- early AI systems
-- digital art movements
-- preserved virtual worlds
-
-These artifacts become cultural objects rather than temporary
-applications.
-
----
-
 ## Artifacts as Cultural Memory
 
 The artifact model aligns closely with how historians think
@@ -168,42 +150,6 @@ Artifacts preserve:
 
 Digital artifacts capable of carrying lineage and identity could
 form a civilizational archive.
-
----
-
-## The Preservation Challenge
-
-Artificial intelligence systems will produce enormous volumes of
-digital content.
-
-Without mechanisms that track authorship and lineage, future
-historians may struggle to reconstruct cultural development.
-
-Artifact systems could help preserve:
-
-- creator attribution
-- derivative relationships
-- contextual history
-
-This may become increasingly important as digital creativity
-accelerates.
-
----
-
-## A Civilizational Archive
-
-If artifact systems mature, digital networks may evolve toward
-something resembling a civilizational archive:
-
-Human knowledge network
-↓
-Artifact preservation layer
-↓
-Spatial exploration interfaces
-
-
-Instead of simply hosting information, digital systems would
-preserve the evolution of human creativity.
 
 ---
 
