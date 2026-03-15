@@ -32,7 +32,6 @@ For example, an image online is simply a file:
 
 image.jpg
 
-
 The internet does not inherently know:
 
 - who created the image
@@ -85,9 +84,11 @@ Hyperlinks connect documents:
 
 Document A → Document B
 
+
 But hyperlinks do not track how objects evolve.
 
 There is no universal way to express relationships such as:
+
 
 Object B was derived from Object A
 
@@ -168,7 +169,6 @@ Educational Simulation
 ↓
 Museum Preservation
 
-
 Each step becomes part of the artifact's recorded history.
 
 ---
@@ -212,6 +212,25 @@ Artifacts become containers of memory rather than isolated files.
 
 ---
 
+## Capsules as an Object Layer
+
+Digital Lineage Objects introduce an artifact-oriented structure
+that allows digital artifacts to carry identity and lineage
+directly within the artifact container.
+
+Each capsule binds digital content to:
+
+- a cryptographic identity
+- integrity verification
+- authorship reference
+- lineage relationships to other artifacts
+
+Because these properties travel with the artifact itself,
+capsules allow digital objects to remain interpretable even
+when the systems that originally hosted them change or disappear.
+
+---
+
 ## A Civilizational Memory System
 
 If digital artifacts carried identity, lineage, and historical
@@ -222,3 +241,6 @@ creativity itself.
 
 Every artifact would contribute to a record of how ideas,
 technologies, and cultures develop over time.
+
+Digital Lineage Objects represent one possible step toward
+such an artifact-oriented internet.
