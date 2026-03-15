@@ -1,0 +1,16 @@
+{
+  "type": "protocol_founder_record",
+  "founder": "Christopher Jamar Prater",
+  "date": "2026-02-15",
+  "protocol": "Digital Lineage Object Standard (DLOS)",
+  "identity_reference": "../identities/christopher_prater_identity.json",
+  "documents": [
+    "founder_record.md",
+    "architecture.md",
+    "civilization.md",
+    "preservation.md",
+    "dedication.md"
+  ],
+  "protocol_stewardship_declaration": "The author of this protocol may develop tools, platforms, and services implementing the DLOS architecture. The protocol itself remains neutral and independent of any specific implementation ecosystem.",
+  "statement": "This capsule records the authorship and conceptual origin of the Digital Lineage Object Standard and its artifact architecture."
+}
