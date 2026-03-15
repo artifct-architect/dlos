@@ -1,9 +1,11 @@
 {
-  "type": "identity",
+  "type": "identity_capsule",
   "name": "Christopher Jamar Prater",
   "role": "Inventor and Protocol Author",
-  "identity_scope": "DLOS Protocol",
+  "identity_scope": "Digital Lineage Object Standard (DLOS)",
   "created_at": "2026-02-15T00:00:00Z",
-  "description": "Identity capsule establishing authorship and cryptographic identity for the Digital Lineage Object Standard and its artifact lineage.",
-  "notes": "Conceptual development began in 2018 and evolved through multiple design iterations."
+  "description": "Identity capsule establishing authorship and cryptographic identity for the Digital Lineage Object Standard and associated artifact architecture.",
+  "notes": "Conceptual development began in 2018 and evolved through multiple design iterations.",
+  "protocol_reference": "DLOS",
+  "identity_class": "protocol_author"
 }
