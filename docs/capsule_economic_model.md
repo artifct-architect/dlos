@@ -153,6 +153,7 @@ Conceptually:
 
 Platform Margin ≤ 10%
 
+
 Platforms may compete within this margin but must never
 exceed it.
 
