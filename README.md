@@ -87,16 +87,19 @@ offline and without trusted intermediaries.
 
 ---
 
-## Repository Contents
+## Authorship
 
-/spec
-    protocol specification
+DLOS and the underlying object architecture were created by:
 
-/reference
-    reference implementation
+Christopher J. Prater  
+Inventor & Protocol Author  
 
-/examples
-    sample objects
+---
 
-/docs
-    diagrams and concept papers
+## Note
+
+This repository represents an early-stage public release of a protocol
+model.
+
+The design is expected to evolve through refinement, implementation,
+and external adoption.
