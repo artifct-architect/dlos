@@ -87,6 +87,16 @@ offline and without trusted intermediaries.
 
 ---
 
+### Key Directories
+
+- **reference/**  
+  Core reference logic for working with DLOS objects.
+
+- **tools/**  
+  Utilities for creating, viewing, and exploring DLOS artifacts.
+  
+---
+
 ## Authorship
 
 DLOS and the underlying object architecture were created by:
