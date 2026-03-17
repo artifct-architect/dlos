@@ -1,22 +1,55 @@
-## Status
+# DLOS — Digital Lineage Object Standard
 
+Status  
 Experimental reference implementation  
-Specification draft
+Specification draft  
 
 ---
 
-DLOS defines a self-verifying digital artifact container that preserves identity, integrity, and lineage independent of registries, platforms, or blockchains.
+## Overview
+
+DLOS defines a self-verifying digital artifact container that preserves
+identity, integrity, and lineage independent of registries, platforms,
+or blockchain systems.
+
+It introduces a missing layer of the internet:
+a native object model for digital artifacts.
+
+---
+
+## Core Idea
+
+A DLOS object carries:
+
+- its own identity  
+- its own integrity proof  
+- its own lineage reference  
+
+This allows verification without external systems.
+
+---
+
+## Why This Exists
+
+The internet was built for documents, not objects.
+
+As a result:
+
+- artifacts lose authorship
+- provenance is not preserved
+- digital history fragments
+- platforms become gatekeepers of identity
+
+DLOS addresses this by making artifacts self-verifying.
 
 ---
 
 ## Design Principles
 
-- Artifacts should be self-verifiable.
-- Identity should not depend on platforms.
-- Lineage should remain portable across systems.
-- Objects should retain meaning across time.
-
-DLOS objects carry their own identity, integrity proof, and lineage reference, allowing them to remain verifiable without reliance on any external ledger, registry, platform, or blockchain.
+Artifacts should be self-verifiable  
+Identity should not depend on platforms  
+Lineage should remain portable across systems  
+Objects should retain meaning across time  
 
 ---
 
