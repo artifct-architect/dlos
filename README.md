@@ -87,7 +87,7 @@ offline and without trusted intermediaries.
 
 ---
 
-### Key Directories
+## Key Directories
 
 - **reference/**  
   Core reference logic for working with DLOS objects.
