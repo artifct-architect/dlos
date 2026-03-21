@@ -40,11 +40,11 @@ This ensures:
 
 ## Module Layers
 
-Capsule Modules exist across three primary layers.
+Capsule Modules exist across primary layers (only one is disclose at this time).
 
 ---
 
-### 1. Behavior Modules (Object Layer)
+### Behavior Modules (Object Layer)
 
 Behavior Modules are embedded directly inside a capsule.
 
@@ -68,78 +68,14 @@ included in identity derivation and signature verification.
 #### Examples
 
 - economics (value flow)
-- access control rules
-- governance logic
+- access
 - attestation data
-- program execution definitions
 
 ---
 
 #### Rule
 
 If a module is inside a capsule, it must be verifiable.
-
----
-
-### 2. System Modules (Execution Layer)
-
-System Modules define how capsules are interpreted and executed.
-
-They exist outside the capsule and operate as part of the runtime
-environment.
-
----
-
-#### Characteristics
-
-- external to the capsule
-- not part of the signed object
-- environment-dependent
-- replaceable and upgradable
-
----
-
-#### Examples
-
-- agent system
-- runtime engine
-- permissions system
-- verification tools
-- lineage explorers
-
----
-
-#### Role
-
-System Modules interpret and act on capsule data and behavior.
-
----
-
-### 3. Interface Modules (Control Layer)
-
-Interface Modules define how users interact with the system.
-
-They provide control surfaces for issuing commands and observing system
-behavior.
-
----
-
-#### Characteristics
-
-- user-facing
-- interaction-driven
-- independent of core protocol
-- adaptable across environments
-
----
-
-#### Examples
-
-- executive console
-- command model
-- dashboards
-- spatial interfaces (AR / VR)
-- voice interfaces
 
 ---
 
