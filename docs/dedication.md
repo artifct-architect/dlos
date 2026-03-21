@@ -4,7 +4,7 @@ This work is dedicated to those who continue to imagine a better future for huma
 
 To those who share my lineage and heritage:
 
-You are beautiful, and brilliant.
+You are bold, beautiful, and brilliant.
 
 As an African American with a vision, I have often experienced what many before me have known — being disregarded, underestimated, or overlooked within the society in which I live. Yet none of those things define our worth, our intelligence, or our capacity to create.
 
